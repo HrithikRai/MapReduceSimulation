@@ -1,6 +1,6 @@
 # MapReduceSimulation
 A demonstration of MapReduce to be run in local Python IDE...
-Please find the dataset here[https://github.com/CodeMangler/udacity-hadoop-course/blob/master/Datasets/purchases.txt.gz]
+Please find the dataset [here](https://github.com/CodeMangler/udacity-hadoop-course/blob/master/Datasets/purchases.txt.gz)
 
 Playing around with BigData should be an Integral part of Data Science. 
 
